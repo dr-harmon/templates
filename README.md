@@ -22,9 +22,10 @@ Test your code in `main`. For example, you could instantiate a 4x3 matrix of `fl
 
 This should produce:
 
-    1.2 1.2 1.2 1.2 
-    1.2 1.2 1.2 1.2 
-    1.2 1.2 1.2 1.2 
+    1.2 1.2 1.2 
+    1.2 1.2 1.2 
+    1.2 1.2 1.2 
+    1.2 1.2 1.2 
 
 You can also test the `+` and `==` operators this way.
 
