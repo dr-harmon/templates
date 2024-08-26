@@ -1,6 +1,6 @@
 # Templates
 
-This lab is a review of C++ templates and operator overloading. We will build a class that represents a two-demensional [matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)). The class should be generic so that its elements can be any type: integers, floating point, or even a custom class.
+This lab is a review of C++ templates and operator overloading. We will build a class that represents a two-dimensional [matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)). The class should be generic so that its elements can be any type: integers, floating point, or even a custom class.
 
 A class template called `Matrix` is provided for you. The template accepts three values describing the matrix: the type of elements, the number of rows, and the number of columns. For example, a 4x3 matrix of floating point values would be defined as `Matrix<float, 4, 3>`.
 
